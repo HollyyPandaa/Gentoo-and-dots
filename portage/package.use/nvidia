@@ -1,0 +1,3 @@
+#local use flags for nvidia drivers
+x11-drivers/nvidia-drivers driver tools -wayland
+>=x11-drivers/nvidia-drivers-495.44-r2 driver tools -wayland
