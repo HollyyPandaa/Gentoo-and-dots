@@ -1,0 +1,6 @@
+#!/bin/sh
+
+# Path for various programs
+[ -f "/home/hollyypandaa/.ghcup/env" ] && source "/home/hollyypandaa/.ghcup/env" # ghcup-env
+
+PATH="/home/hollyypandaa/.cabal/bin:${PATH}" # xmonad path
