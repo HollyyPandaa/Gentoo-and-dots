@@ -1,0 +1,4 @@
+#!/bin/sh
+
+# Prompt
+eval "$(starship init zsh)"
